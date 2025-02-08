@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 
-#C:\Users\abdelkabir\Desktop\My_Project\My_Project\calcolator\Calcolator_1.py
 root=Tk()
 root.geometry('302x372+300+100')
 root.config(background='white')
