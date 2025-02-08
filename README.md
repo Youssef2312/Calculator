@@ -1,2 +1,2 @@
 # Calculator
-basic ui code of calculator using tkinter in python 
+this is calculator code in python using tkinter lib for UI
